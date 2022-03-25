@@ -44,7 +44,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 ### IoT
 
-- [Zeus IoT](https://github.com/zmops/zeus-iot)
+- [Zeus IoT](https://github.com/zmops/zeus-iot) - Zeus IoT is the world's first open source Internet of Things distributed collection platform based on Zabbix, with the ability to collect, analyze, and store data from millions of IoT devices.
 - [DG-IoT](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin
 - [dgiot_tdengine](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED
