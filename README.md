@@ -53,7 +53,6 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 - [sqli](https://github.com/x-ream/sqli)
 - [IoTSharp.EntityFrameworkCore.Taos](https://github.com/IoTSharp/EntityFrameworkCore.Taos)
-- [TDengine Gorm Dialect](https://github.com/taosdata/tdengine_gorm)
 - [TDengine ORM Framework](https://github.com/hxshun/TDengineORM)
 - [taodbi](https://github.com/genelet/taodbi) - An abstract interface package to use the big data system TDengine
 
