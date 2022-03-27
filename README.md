@@ -69,6 +69,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir
 - [node2tdengine](https://github.com/machine-w/node2tdengine)
 - [yii2-tdengine](https://github.com/bearlord/yii2-tdengine) - TDengine for yii2, pdo_taos needed
+- [Pulsar-TDengine](https://github.com/JueShanCoder/pulsar-io-tdengine) - TDengine Connector for Pulsar
 
 ### Stack
 
