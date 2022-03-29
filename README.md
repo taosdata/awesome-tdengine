@@ -31,6 +31,8 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [Algorithm](#algorithm)
 - [Observability](#observability)
 - [Container](#container)
+- [Distribution](#distribution)
+- [Dataset](#dataset)
 - [Others](#others)
 
 ## Resources
@@ -107,10 +109,17 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [TDengine Containers](https://github.com/arktos-venture/docker-tdengine) - TDengine Client, Node, Adapter and Arbitrator Rootless and smallest containers as possible.
 - [TDengine-K8S](https://github.com/elihe2011/TDengine-K8S)
 
-### Others
+### Distribution
 
 - [tdengine-client-macos-unofficial](https://github.com/cybartists/tdengine-client-macos-unofficial) - Unofficial compiled TDengine client for macOS
-- [auto_taos_cfg](https://github.com/glzhao89/auto_taos_cfg) - Auto generate TDengine log/data/cfg
+- [Unofficial TDengine Windows](https://github.com/GitHubForzhenjiazhao/Soft) - Unofficial TDengine Windows client & server package
+
+### Dataset
+
 - [seedlink2taos_py](https://github.com/schenton/seedlink2taos_py) - A Python program that fetches seismic waveform data from IRIS and writes to TDengine database.
 - [airQuality](https://github.com/233lawliet/airQuality) - 3000+ District air quality metrics: CO2, CO1,PM2.5, PM10 and so on.
+
+### Others
+
+- [auto_taos_cfg](https://github.com/glzhao89/auto_taos_cfg) - Auto generate TDengine log/data/cfg
 - [Sentinel Console](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDEngine
