@@ -57,20 +57,22 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [IoTSharp.EntityFrameworkCore.Taos](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine
 - [TDengine ORM Framework](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine
 - [taodbi](https://github.com/genelet/taodbi) - An abstract interface package to use the big data system TDengine
+- [tdengine-orm](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine
 
 ### Connector
 
 - [PDO_TAOS](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO
-- [php-tdengine](https://github.com/Yurunsoft/php-tdengine) - PHP extension of big data engine TDengine, supports Swoole!
+- [yii2-tdengine](https://github.com/bearlord/yii2-tdengine) - TDengine for yii2, pdo_taos needed
+- [php-tdengine](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole
+- [tdengine-restful-connector](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole
 - [imi-tdengine](https://github.com/imiphp/imi-tdengine) - Encapsulated TDengine connection pools, used in imi framework
-- [TDengine rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - It's a rust bindings project for TDengine
 - [pytaos](https://github.com/horennel/pytaos) - Python RESTful API of TDengine
 - [Go Connector for TDengine](https://github.com/wenj91/taos-driver) - Implements internal database interface database/sql/driver of Go-lang.
+- [node2tdengine](https://github.com/machine-w/node2tdengine)
 - [NestJS TDengine Driver](https://github.com/IricBing/nestjs-tdengine) - NestJS TDengine Driver(RESTful based)
 - [taos-rs](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful Client
+- [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir
-- [node2tdengine](https://github.com/machine-w/node2tdengine)
-- [yii2-tdengine](https://github.com/bearlord/yii2-tdengine) - TDengine for yii2, pdo_taos needed
 
 ### Stack
 
