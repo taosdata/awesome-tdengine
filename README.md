@@ -93,6 +93,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 - [tsarchive](https://github.com/cenc-cea/tsarchive) - Consume data streams from a Kafka topic, archive the data packets into the TDEngine time series database.
 - [flink-connector-tdengine](https://github.com/echisan/flink-connector-tdengine)
+- [TD-Spark](https://github.com/liuyq-617/TD-Spark) - A java project, read from TDengine and write to TDengine on Spark.
 - [Integrate TDengine to YoMo](https://github.com/yomorun/yomo-sink-tdengine-example) - Demonstrates how to integrate TDengine to YoMo and store data to TDengine after stream processing.
 - [YoMo x TDengine](https://github.com/fanweixiao/push-stream-logging) - Streaming high frequency logs to TDengine
 - [taostd](https://github.com/nzhzds/taostd) - taostd is a simple sql executor for TDengine.
@@ -120,7 +121,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 ### Dataset
 
 - [seedlink2taos_py](https://github.com/schenton/seedlink2taos_py) - A Python program that fetches seismic waveform data from IRIS and writes to TDengine database.
-- [airQuality](https://github.com/233lawliet/airQuality) - 3000+ District air quality metrics: CO2, CO1,PM2.5, PM10 and so on.
+- [airQuality](https://github.com/233lawliet/airQuality) - 3000+ District air quality metrics: CO2, CO1, PM2.5, PM10 and so on.
 
 ### Others
 
