@@ -127,3 +127,4 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 - [auto_taos_cfg](https://github.com/glzhao89/auto_taos_cfg) - Auto generate TDengine log/data/cfg
 - [Sentinel Console](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine
+- [Davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform
