@@ -56,6 +56,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [IoTSharp.EntityFrameworkCore.Taos](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
 - [taodbi](https://github.com/genelet/taodbi) - An abstract interface package to use the big data system TDengine.
 - [tdengine-orm](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.
+<!--lint ignore awesome-list-item-->
 - [crown](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 
 ## Connector
@@ -80,10 +81,11 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 ## Plugin
 
+<!--lint ignore awesome-list-item-->
 - [rsyslog plugin for tdengine](https://github.com/mxmkeep/rsyslog-omtaos) - rsyslog plugin for TDengine.
 - [HiveMQ TDengine Plugin](https://github.com/huskar-t/hivemq-tdengine-extension) - HiveMQ TDengine Plugin.
 - [hivemq-tdengine-jdsl-extension](https://github.com/huskar-t/hivemq-tdengine-jdsl-extension) - HiveMQ TDengine JDSL Plugin.
-- [HiveMQ-TDengine-Extension](https://github.com/john-bigz/hivemq-tdengine-extension) - a TDengine extension for HiveMQ.
+- [HiveMQ-TDengine-Extension](https://github.com/john-bigz/hivemq-tdengine-extension) - A TDengine extension for HiveMQ.
 - [tdengine_hivemq](https://github.com/379547990/tdengine_hivemq)
 - [pulsar-io-tdengine](https://github.com/JueShanCoder/pulsar-io-tdengine) - The TDengine connector connects Pulsar and TDengine.
 
@@ -94,6 +96,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [TD-Spark](https://github.com/liuyq-617/TD-Spark) - A java project, read from TDengine and write to TDengine on Spark.
 - [Integrate TDengine to YoMo](https://github.com/yomorun/yomo-sink-tdengine-example) - Demonstrates how to integrate TDengine to YoMo and store data to TDengine after stream processing.
 - [YoMo x TDengine](https://github.com/fanweixiao/push-stream-logging) - Streaming high frequency logs to TDengine.
+<!--lint ignore awesome-list-item-->
 - [taostd](https://github.com/nzhzds/taostd) - taostd is a simple sql executor for TDengine.
 
 ## Algorithm
