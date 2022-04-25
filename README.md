@@ -91,7 +91,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 ### Data
 
-- [tsarchive](https://github.com/cenc-cea/tsarchive) - Consume data streams from a Kafka topic, archive the data packets into the TDEngine time series database.
+- [tsarchive](https://github.com/cenc-cea/tsarchive) - Consume data streams from a Kafka topic, archive the data packets into the TDengine time series database.
 - [flink-connector-tdengine](https://github.com/echisan/flink-connector-tdengine)
 - [TD-Spark](https://github.com/liuyq-617/TD-Spark) - A java project, read from TDengine and write to TDengine on Spark.
 - [Integrate TDengine to YoMo](https://github.com/yomorun/yomo-sink-tdengine-example) - Demonstrates how to integrate TDengine to YoMo and store data to TDengine after stream processing.
@@ -126,4 +126,4 @@ Offical Website: [tdengine.com](https://tdengine.com)
 ### Others
 
 - [auto_taos_cfg](https://github.com/glzhao89/auto_taos_cfg) - Auto generate TDengine log/data/cfg
-- [Sentinel Console](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDEngine
+- [Sentinel Console](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine
