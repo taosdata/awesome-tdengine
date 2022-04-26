@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="240" src="./assets/logo.svg" alt="logo of awesome-tdengine repository">
+  <a href="https://tdengine.com"><img width="240" src="./assets/logo.svg" alt="logo of awesome-tdengine repository"></a>
   <br>
   <br>
 </p>
