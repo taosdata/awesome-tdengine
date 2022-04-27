@@ -53,8 +53,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [TDengine ORM Framework](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine.
 - [IoTSharp.EntityFrameworkCore.Taos](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
 - [taodbi](https://github.com/genelet/taodbi) - An abstract interface package to use the big data system TDengine.
-- [tdengine-orm](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.
-<!--lint ignore awesome-list-item-->
+- [tdengine-orm](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.<!--lint ignore awesome-list-item-->
 - [crown](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 
 ## Connector
@@ -93,8 +92,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [flink-connector-tdengine](https://github.com/echisan/flink-connector-tdengine)
 - [TD-Spark](https://github.com/liuyq-617/TD-Spark) - A java project, read from TDengine and write to TDengine on Spark.
 - [Integrate TDengine to YoMo](https://github.com/yomorun/yomo-sink-tdengine-example) - Demonstrates how to integrate TDengine to YoMo and store data to TDengine after stream processing.
-- [YoMo x TDengine](https://github.com/fanweixiao/push-stream-logging) - Streaming high frequency logs to TDengine.
-<!--lint ignore awesome-list-item-->
+- [YoMo x TDengine](https://github.com/fanweixiao/push-stream-logging) - Streaming high frequency logs to TDengine.<!--lint ignore awesome-list-item-->
 - [taostd](https://github.com/nzhzds/taostd) - taostd is a simple sql executor for TDengine.
 
 ## Algorithm
