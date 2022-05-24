@@ -83,7 +83,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [HiveMQ TDengine Plugin](https://github.com/huskar-t/hivemq-tdengine-extension) - HiveMQ TDengine Plugin.
 - [hivemq-tdengine-jdsl-extension](https://github.com/huskar-t/hivemq-tdengine-jdsl-extension) - HiveMQ TDengine JDSL Plugin.
 - [HiveMQ-TDengine-Extension](https://github.com/john-bigz/hivemq-tdengine-extension) - A TDengine extension for HiveMQ.
-- [tdengine_hivemq](https://github.com/379547990/tdengine_hivemq)
+- [tdengine_hivemq](https://github.com/379547990/tdengine_hivemq) - HiveMQ to TDengine.
 - [pulsar-io-tdengine](https://github.com/JueShanCoder/pulsar-io-tdengine) - The TDengine connector connects Pulsar and TDengine.
 
 ## Data
