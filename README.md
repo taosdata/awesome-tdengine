@@ -79,6 +79,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 ## Plugin
 
 <!--lint ignore awesome-list-item-->
+
 - [rsyslog plugin for tdengine](https://github.com/mxmkeep/rsyslog-omtaos) - rsyslog plugin for TDengine.
 - [HiveMQ TDengine Plugin](https://github.com/huskar-t/hivemq-tdengine-extension) - HiveMQ TDengine Plugin.
 - [hivemq-tdengine-jdsl-extension](https://github.com/huskar-t/hivemq-tdengine-jdsl-extension) - HiveMQ TDengine JDSL Plugin.
@@ -103,6 +104,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 ## Observability
 
 - [TDengine interface for n9e transfer](https://github.com/xiangxud/transfer)
+- [Business monitoring based on TDengine](https://github.com/gunnerliu/horus) - Highly customized business monitoring with TDengine & SpringBoot
 
 ## Container
 
