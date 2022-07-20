@@ -48,7 +48,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
 
 ## ORM
-- [APIJSON](https://github.com/Tencent/APIJSON) A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
+- [APIJSON](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
 - [TDengine ORM Framework](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine.
 - [IoTSharp.EntityFrameworkCore.Taos](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
