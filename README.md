@@ -69,6 +69,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [taos-rs](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful Client.
 - [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine.
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
+- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility/ToolKits.DBUtility.TDengine/src) - Based on the officially provided RESTful API interface, TDengine connectors encapsulated by cutting-edge technologies such as .net6 (.net7 support will be provided soon). This package library provides a friendly and unified external interface form, allowing users to focus more on their own business development. It is integrated and used through the common host and service container (it can also be created directly by using Provider), and the corresponding [NuGet package](https://www.nuget.org/packages/DBUtility.TDengine) is provided for direct introduction into the project. This package library was born in the company's own business application scenarios, and will be continuously optimized and supported synchronously.
 
 ## Stack
 
