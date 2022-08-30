@@ -69,7 +69,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [taos-rs](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful Client.
 - [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine.
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
-- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits) - C# Connector for TDengine. (.net6+)
+- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
 
 ## Stack
 
