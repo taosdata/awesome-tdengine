@@ -55,6 +55,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [crown](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 - [APIJSON](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
 - [ZORM](https://gitee.com/chunanyong/zorm) - ORM support TDenging by Go.
+- 
 ## Connector
 
 - [PDO_TAOS](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
@@ -70,6 +71,12 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine.
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
 - [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
+- [IoTSharp.Data.Taos](https://www.nuget.org/packages/IoTSharp.Data.Taos/)  - TDengine's ADO.Net provider. (.Net Framework 4.6+, .Net Standard2.0+,.Net 5.0+)  [more](https://github.com/IoTSharp/EntityFrameworkCore.Taos) 
+
+
+## Health Checks
+- [IoTSharp.HealthChecks.Taos](https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/) - TDengine's HealthChecks provider. (.Net 5.0+)  [more](https://github.com/IoTSharp/EntityFrameworkCore.Taos) 
+
 
 ## Stack
 
