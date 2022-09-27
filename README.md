@@ -46,6 +46,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [DG-IoT](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
 - [dgiot_tdengine](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin.
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
+- [IoTSharp](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp is an open-source IoT platform for data collection,.It supports storing time series data to TDengine.
 
 ## ORM
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
