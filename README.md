@@ -35,7 +35,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 ## GUI
 
-- [TDengineGUI](https://github.com/skye0207/TDengineGUI) - A simple TDengine Desktop Manager.
+- [TDengineGUI](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
 - [Taos.Studio](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
 - [balloonfish](https://github.com/xielaoshi99/balloonfish) - Electron + Vue3 + Vite2.0 based TDengine time-series database visualized management tool.
 - [tdengine-client](https://github.com/wurong1420/tdengine-client) - A simple TDengine interface.
